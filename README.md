@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @csjh
 - 👀 I’m interested in movies, music, and coding :)
 - 🌱 Currently learning C, C++, Python, HTML, CSS, and JavaScript
-- 🎓 Recently finished Harvard's CS50x
+- 🎓 Recently finished Harvard's CS50x & Princeton's Algorithms, Part 1 on Coursera
 
 <!---
 csjh/csjh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
