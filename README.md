@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @csjh
 - 😍 I’m interested in movies, music, and coding
 - 🌳 Svelte and SvelteKit enthusiast
-- 🎓 Second Year Computer Science Honours student at Carleton University
+- 🎓 Third Year Computer Science Honours student at Carleton University
 - 👨‍💼 Software Engineering Intern at RBC
 
 <!---
