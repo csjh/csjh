@@ -2,7 +2,7 @@
 - 😍 I’m interested in movies, music, and coding
 - 🌳 Svelte and SvelteKit enthusiast
 - 🎓 Third Year Computer Science Honours student at Carleton University
-- 👨‍💼 Software Engineering Intern at RBC
+- 👨‍💼 Software Engineering Intern at Evidence
 
 <!---
 csjh/csjh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
