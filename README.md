@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @csjh
-- 😍 I’m interested in movies, music, and coding
-- 🌳 Svelte and SvelteKit enthusiast
-- 🎓 Third Year Computer Science Honours student at Carleton University
-- 👨‍💼 Software Engineering Intern at Evidence
+i do love those compilers sir
 
 <!---
 csjh/csjh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
